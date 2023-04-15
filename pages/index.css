@@ -1,0 +1,17 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/main/main.css);
+@import url(../blocks/main/__image/main__image.css);
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__button-area/form__button-area.css);
+@import url(../blocks/form/__button-arrow/form__button-arrow.css);
+@import url(../blocks/form/__button/form__button.css);
+@import url(../blocks/form/__input-area/form__input-area.css);
+@import url(../blocks/form/__input-caption/form__input-caption.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__link/form__link.css);
+@import url(../blocks/form/__password-toggle-button/form__password-toggle-button.css);
+@import url(../blocks/form/__label/form__label.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

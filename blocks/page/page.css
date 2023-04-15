@@ -1,0 +1,9 @@
+.page {
+    width: 364px;
+    min-height: 929px;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}

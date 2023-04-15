@@ -1,0 +1,6 @@
+.main__image {
+    width: 304px;
+    height: 304px;
+    object-fit: cover;
+    margin-top: 125px;
+}
